@@ -8,7 +8,7 @@ import {
 } from "react-icons/fa";
 
 const BannerImg = {
-  backgroundImage: `url('src/assets/blob-scene-haikei.svg')`,
+  backgroundImage: `url('src/assets/blob-scene-haikei.webp')`,
   backgroundPosition: "center center",
   backgroundRepeat: "no-repeat",
   backgroundSize: "cover",

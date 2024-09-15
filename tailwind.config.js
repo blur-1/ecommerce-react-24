@@ -18,7 +18,7 @@ export default {
         }
       },
       backgroundImage: {
-        'custom-bg': "url('src/assets/blob-scene-haikei.svg')",
+        'custom-bg': "url('src/assets/blob-scene-haikei.webp')",
       },
     },
   },

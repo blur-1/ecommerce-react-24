@@ -18,7 +18,7 @@ export default {
         }
       },
       backgroundImage: {
-        'custom-bg': "url('src/assets/blob-scene-haikei.webp')",
+        'custom-bg': "url('https://raw.githubusercontent.com/blur-1/ecommerce-react-24/main/src/assets/blob-scene-haikei.webp')",
       },
     },
   },

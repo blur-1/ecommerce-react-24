@@ -30,6 +30,7 @@ const App = () => {
       <Navbar/>
       <Routes>
         <Route path="/" element={<> <Banner /> {<Categories />} </>} />
+        <Route path="/ecommerce-react-24" element={<> <Banner /> {<Categories />} </>} />
         <Route path="/login" element={<LoginForm/>} />
         <Route path="/register" element={<RegisterForm/>} />
         <Route path="/profile" element={<ProtectedRoute><Profile/></ProtectedRoute>} />
